@@ -1,0 +1,11 @@
+Package: com.hungbgmod.demo
+Version: 1.0
+Section: Utilities
+Maintainer: Hungbg201.ads@gmail.com
+Architecture: iphoneos-arm
+Filename: ./debs/hungbgmod.deb
+Size: 878
+MD5sum: 223af15a4524a898e077876966c8641e
+Description: thủ thuật jb
+Name: HungBGMOD
+Author: HungBGMOD
